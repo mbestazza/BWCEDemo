@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/HelloWorldREST.module/Service Descriptors/helloworldrest.module.HelloWorldREST-helloworld.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://xmlns.example.com/helloworld/parameters"
+}]}

@@ -1,0 +1,7 @@
+{
+    "records": [],
+    "resources": [{
+        "location": "Service Descriptors/helloworldrest.module.HelloWorldREST-helloworld.json",
+        "type": "generated"
+    }]
+}
